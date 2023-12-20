@@ -1,6 +1,5 @@
 # ASCII Art Generator
 
-![Example ASCII Art](example_ascii_art.png)
 
 This is a simple Python tool that converts images into ASCII art. It uses the PIL library to process images and generate ASCII representations based on pixel brightness levels.
 
@@ -31,10 +30,12 @@ This is a simple Python tool that converts images into ASCII art. It uses the PI
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
 
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/moynul6206/ascii-generator/blob/main/LICENSE.txt)
+
 ## Acknowledgements
 
 This tool is based on the concept of ASCII art and was inspired by various online resources and tutorials.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
