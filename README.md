@@ -3,6 +3,8 @@
 
 This is a simple Python tool that converts images into ASCII art. It uses the PIL library to process images and generate ASCII representations based on pixel brightness levels.
 
+![Title](title.png)
+
 ## Features
 
 - Upload and convert images to ASCII art.
